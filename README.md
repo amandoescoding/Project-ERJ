@@ -1,3 +1,5 @@
 # X-Plane-11-Embraer-ERJ135-Freeware
 
-<h3 style="font-size:50%>"A Freeware Embraer ERJ135 for X Plane 11.</h3>
+A Freeware Embraer ERJ135 for X Plane 11.
+
+This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a>
