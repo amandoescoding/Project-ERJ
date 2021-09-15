@@ -2,4 +2,10 @@
 
 A Freeware Embraer ERJ135 for X Plane 11.
 
-This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a>
+This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial-NoDerivatives 4.0 International</a>
+
+<h2>Credits:</h2>
+
+amantr223: 3D Modelling exterior and interior of aircraft, UV Maps, texturing
+
+simpilot001: Working on datarefs and manipulators for the cockpit
