@@ -6,7 +6,17 @@ This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-
 
 <h3>Overview:</h3>
 
-This is an Embraer ERJ135 made entirely from scratch for the X Plane community.
+This is an Embraer ERJ135 made entirely from scratch for the X Plane community, with one of the aims that this aircraft being a high quality freeware aircraft. The model will include an almost fully interactional cockpit with a possible fully functioning FMS, PFDs and MFDs. With this, Cabin lighting and cabin door animations will be made.
+
+<h3>Updates:</h3>
+
+As of September 2021, the following are being developed:
+<li>
+  <ul>Overhead Luggage Storage</ul>
+  <ul>Cabin Seats</ul>
+  <ul>Fueslage Interior</ul>
+  <ul>Cabin Compartments such as stored food trolleys and bins</ul>
+  </li>
 
 <h2>Credits:</h2>
 
