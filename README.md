@@ -11,12 +11,10 @@ This is an Embraer ERJ135 made entirely from scratch for the X Plane community, 
 <h3>Updates:</h3>
 
 As of September 2021, the following are being developed:
-<li>
-  <ul>Overhead Luggage Storage</ul>
-  <ul>Cabin Seats</ul>
-  <ul>Fueslage Interior</ul>
-  <ul>Cabin Compartments such as stored food trolleys and bins</ul>
-  </li>
+<li>Overhead Luggage Storage</ul>
+<li>Cabin Seats</li>
+<li>Fueslage Interior</li>
+<li>Cabin Compartments such as stored food trolleys and bins</li>
 
 <h2>Credits:</h2>
 
