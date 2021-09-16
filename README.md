@@ -16,6 +16,17 @@ As of September 2021, the following are being developed:
 <li>Fueslage Interior</li>
 <li>Cabin Compartments such as stored food trolleys and bins</li>
 
+<h3>Q & A:</h3>
+
+<h4>When will the aircraft be released?</h4>
+
+The aircraft is currently in development but will be expected to be released as a beta in the coming months, the final version will be released between the end of 2021 and the start of 2022.
+
+<h4>Where can i find updates?</h4>
+
+Join our <a href="https://discord.gg/GdbSSRNw">here</a>
+
+
 <h2>Credits:</h2>
 
 amantr223: 3D Modelling exterior and interior of aircraft, UV Maps, texturing
