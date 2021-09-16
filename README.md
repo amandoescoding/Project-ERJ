@@ -24,7 +24,11 @@ The aircraft is currently in development but will be expected to be released as 
 
 <h4>Where can i find updates?</h4>
 
-Join our <a href="https://discord.gg/GdbSSRNw">here</a>
+Join our Discord <a href="https://discord.gg/GdbSSRNw">here.</a> The server will provide updates to the project and announcments for the coming possible developments of other Embraer Regional Jets.
+
+<h4>How can i be part of the development team?</h4>
+
+Currently I'm looking for a 3D Modeller who can use Blender and animate objects. If interested, join our<a href="https://discord.gg/GdbSSRNw">Discord</a> Server, and message amantr223.
 
 
 <h2>Credits:</h2>
