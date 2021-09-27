@@ -33,7 +33,7 @@ Currently I'm looking for a 3D Modeller who can use Blender and animate objects.
 
 <h2>Credits:</h2>
 
-amantr223: 3D Modelling exterior and interior of aircraft, UV Maps, texturing
+Itsdeboss: 3D Modelling exterior and interior of aircraft, UV Maps, texturing
 
 simpilot001: Working on datarefs and manipulators for the cockpit
 
