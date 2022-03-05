@@ -10,13 +10,7 @@ This is an Embraer ERJ135 made entirely from scratch for the X Plane community, 
 
 <h3>Updates:</h3>
 
-As of September 2021, the following are being developed:
-<li>Overhead Luggage Storage</ul>
-<li>Cabin Seats</li>
-<li>Fueslage Interior</li>
-<li>Cabin Compartments such as stored food trolleys and bins</li>
-
-<h3>Q & A:</h3>
+As of March 2022, the plane has been completed, including control surface datarefs for the wings and gear.
 
 <h4>When will the aircraft be released?</h4>
 
