@@ -1,0 +1,6 @@
+Credits:
+Hawk60 (3D modelling, exterior and interior modelling, texturing)
+Joey_C (Liveries, additional textures and lots of help)
+Simpilot001_Datarefs animation, cockpit adjustment, additional manipulators (yet to be added)
+Ryan Bomar (Provided sounds for Embraer ERJ series (Yet to be implemented)
+Marko M (From X -Crafts, provided help for modelling and referencing)
